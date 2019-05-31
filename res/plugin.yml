@@ -1,0 +1,8 @@
+name: "PureBans"
+main: "ovh.quiquelhappy.mcplugins.purebans.main"
+version: "1.0"
+commands:
+  punish:
+    description: "Creates a punishment request for a player"
+    permission: "purebans.punish"
+    usage: "/punish [player]"

@@ -1,0 +1,19 @@
+mysql:
+
+  # DATABASE CONNECTION
+
+  direction: "localhost"
+  port: "3306"
+  database: "game"
+  SSL: false
+
+  # DATABASE CREDENTIALS
+
+  username: "server"
+  password: "Wow, Amazing Password"
+
+server:
+
+  # SERVER (THE BANS WILL WORK GLOBALLY, BUT THIS SAVES THE CONTEXT PER SERVER)
+
+  name: "general"

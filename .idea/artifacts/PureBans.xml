@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PureBans">
+    <output-path>$PROJECT_DIR$/out/artifacts/PureBans</output-path>
+    <root id="archive" name="PureBans.jar">
+      <element id="module-output" name="PureBans" />
+      <element id="file-copy" path="$PROJECT_DIR$/res/config.yml" />
+      <element id="file-copy" path="$PROJECT_DIR$/res/plugin.yml" />
+    </root>
+  </artifact>
+</component>
